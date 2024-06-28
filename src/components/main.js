@@ -1,5 +1,5 @@
 import { urlRoute, urlLocationHandler } from './router.js';
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', () => {
   document.addEventListener('click', (event) => {
     const { target } = event;
     if (!target.matches('nav li a')) {

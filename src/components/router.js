@@ -16,7 +16,6 @@ export const urlLocationHandler = async () => {
   }
   const route = routeState[location];
 
-  console.log(route.background);
 
   if (!route || !route.template) {
     console.error('Template not found for the given route');
@@ -49,7 +48,6 @@ export const urlLocationHandler = async () => {
         `${route.background} px-8 bg-cover min-h-dvh`
       );
     }
-    console.log(bodyBackgroundImage);
   } catch (error) {
     console.error('Error loading template:', error);
   }
