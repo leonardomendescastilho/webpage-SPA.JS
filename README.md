@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - vanilla JavaScript
 
 ## 💻 Projeto
-Este projeto foi criado para aplicar conceitos avançados de SPA através de javascript puro, sem nenhum framework ou api adicional.
+Este projeto foi criado para aplicar conceitos avançados de SPA através de javascript puro. As SPAs são projetadas para oferecer uma experiência de usuário mais rápida e responsiva, minimizando o tempo de carregamento e proporcionando uma interação mais fluida, apenas atualizando partes específicas da página conforme necessário.
 
 
 ## :memo: Licença
