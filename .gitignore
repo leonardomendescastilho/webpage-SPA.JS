@@ -1,0 +1,22 @@
+
+# Node modules
+node_modules/
+
+# Diretório de saída
+dist/
+
+# Arquivos de configuração de ambiente
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de teste
+coverage/
+.nyc_output/
+
+# Outras exclusões
+.DS_Store
+Thumbs.db
